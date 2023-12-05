@@ -1,2 +1,2 @@
 # KJM-GNN
-The datasets and code are being updated.
+Our datasets and code are being updated.
